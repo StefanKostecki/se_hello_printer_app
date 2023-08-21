@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # pobierz kod
+      # pobierz  kod
       - uses: actions/checkout@v3
       # moja aplikacja jest w Pythonie
       - name: Set up Python 3
